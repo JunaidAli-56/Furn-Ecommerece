@@ -53,7 +53,7 @@ export default function Header() {
     <>
       <nav className="navbar navbar-expand-lg mynav py-4">
         <div className="container-fluid ">
-          <div className='mynav-logo'>
+          <div className='mynav-logo ms-3'>
             <a className="navbar-brand" href="#">
               <img src={image1} alt="Bootstrap" width="50" height="45" />
             </a>

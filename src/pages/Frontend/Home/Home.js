@@ -36,7 +36,7 @@ export default function Home() {
                 <div className="row py-5">
                     <div className="col text-center">
                         <h2 className='fw-bold'>POPULAR PRODUCTS</h2>
-                        <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                        <p className='fs-4'>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
                     </div>
                 </div>
                 <div className="row">
@@ -47,11 +47,11 @@ export default function Home() {
             </div>
             {/* 4th container */}
             <div className="container-fluid fourth-container p-0 m-0">
-                <div className="row">
-                    <div className="col-lg-7 col-md-12 col-sm-12">
+                <div className="row m-0 p-0">
+                    <div className="col-lg-6 col-md-12 col-sm-12">
                         <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/visit_bg.png.webp" className="card-img-top" alt="..." />
                     </div>
-                    <div className="col-lg-5 col-md-12 col-sm-12 about-col p-4">
+                    <div className="col-lg-6 col-md-12 col-sm-12 about-col p-4">
                         <h2 className='fw-bold py-2'>BEST FURNITURE
                             MANUFACTURER</h2>
                         <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
@@ -72,7 +72,7 @@ export default function Home() {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular4.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -85,7 +85,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular5.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -98,7 +98,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular6.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -120,8 +120,8 @@ export default function Home() {
             </div>
             {/*6th container */}
             <div className="container-fluid p-0 m-0">
-                <div className="row">
-                    <div className="col-lg-4 col-md-12 col-sm-12 about-col px-5">
+                <div className="row d-flex justify-content-center align-items-center m-0 p-0">
+                    <div className="col-lg-4 col-md-12 col-sm-12 about-col px-5 py-4">
                         <div className='fw-bold fs-1'>
                             <i className="bi bi-instagram"></i>
                         </div>
@@ -150,7 +150,7 @@ export default function Home() {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular9.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -163,7 +163,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular8.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -176,7 +176,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="card">
+                                <div className="card border-0 py-3">
                                     <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular7.png" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -201,7 +201,7 @@ export default function Home() {
             <div className="container-fluid six-container py-4">
                 <div className="row">
                     <div className="col-lg-3 col-md-6 col-sm-12">
-                        <div className="card sixcon-card">
+                        <div className="card sixcon-card border-0 py-3">
                             <div className='icon-div'>
                                 <i className="bi bi-truck"></i>
                             </div>
@@ -212,7 +212,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
-                        <div className="card sixcon-card">
+                        <div className="card sixcon-card border-0 py-3">
                             <div className='icon-div'>
                                 <i className="bi bi-credit-card-2-back"></i>
                             </div>
@@ -223,7 +223,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
-                        <div className="card sixcon-card">
+                        <div className="card sixcon-card border-0 py-3">
                             <div className='icon-div'>
                                 <i className="bi bi-cash-coin"></i>
                             </div>
@@ -234,7 +234,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
-                        <div className="card sixcon-card">
+                        <div className="card sixcon-card border-0 py-3">
                             <div className='icon-div'>
                                 <i className="bi bi-motherboard"></i>
                             </div>

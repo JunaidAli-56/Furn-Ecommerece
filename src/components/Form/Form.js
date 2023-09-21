@@ -25,7 +25,7 @@ export default function FormPropsTextFields() {
                             defaultValue=""
                         />
                     </div>
-                    <div className="col-6">
+                    <div className="col-lg-6 col-md-6 col-sm-12">
                         <TextField
                             id="outlined-name-input"
                             label="First name"
@@ -33,7 +33,7 @@ export default function FormPropsTextFields() {
                             autoComplete="current-password"
                         />
                     </div>
-                    <div className="col-6">
+                    <div className="col-lg-6 col-md-6 col-sm-12">
                         <TextField
                             id="outlined-name-input"
                             label="Last name"
@@ -41,7 +41,7 @@ export default function FormPropsTextFields() {
                             autoComplete="current-password"
                         />
                     </div>
-                    <div className="col-6">
+                    <div className="col-lg-6 col-md-6 col-sm-12">
                         <TextField
                             id="outlined-email-input"
                             label="Email"
@@ -49,7 +49,7 @@ export default function FormPropsTextFields() {
                             autoComplete="current-password"
                         />
                     </div>
-                    <div className="col-6">
+                    <div className="col-lg-6 col-md-6 col-sm-12">
                         <TextField
                             id="outlined-password-input"
                             label="Password"
@@ -70,18 +70,6 @@ export default function FormPropsTextFields() {
                     Send
                 </Button>
             </div>
-            <div>
-
-            </div>
-            {/* <div>
-                <TextField
-                    required
-                    id="filled-required"
-                    label="Required"
-                    defaultValue="Hello World"
-                    variant="filled"
-                />
-            </div> */}
         </Box>
     );
 }

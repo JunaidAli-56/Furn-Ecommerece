@@ -60,7 +60,7 @@ export default function BasicTabs() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -73,7 +73,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -86,7 +86,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -104,8 +104,9 @@ export default function BasicTabs() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
-                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
+                            <div className="card border-0 py-3">
+
+                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
                                     {/* <a href="#" className="btn btn-primary">Shop Now</a> */}
@@ -117,8 +118,8 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
-                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
+                            <div className="card border-0 py-3">
+                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
                                     {/* <a href="#" className="btn btn-primary">Shop Now</a> */}
@@ -130,7 +131,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -148,8 +149,9 @@ export default function BasicTabs() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
-                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
+                            <div className="card border-0 py-3">
+                                
+                            <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
                                     {/* <a href="#" className="btn btn-primary">Shop Now</a> */}
@@ -161,7 +163,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -174,8 +176,9 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
-                                <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
+                            <div className="card border-0 py-3">
+                               
+                            <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
                                     <div className='d-flex justify-content-between float-btn-lowerdiv'>
@@ -192,7 +195,7 @@ export default function BasicTabs() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -205,7 +208,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -218,7 +221,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -236,7 +239,7 @@ export default function BasicTabs() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular1.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -249,7 +252,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular2.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>
@@ -262,7 +265,7 @@ export default function BasicTabs() {
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12">
-                            <div className="card">
+                            <div className="card border-0 py-3">
                                 <img src="https://preview.colorlib.com/theme/furn/assets/img/gallery/popular3.png" className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <p className="card-text">Bly Microfiber / Microsuede 56"Armless Loveseat</p>

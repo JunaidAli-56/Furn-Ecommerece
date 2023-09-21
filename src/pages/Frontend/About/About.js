@@ -53,7 +53,7 @@ export default function About() {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-4 col-md-12 col-sm-12 about-col px-5">
+                    <div className="col-lg-4 col-md-12 col-sm-12 about-col px-5 py-4">
                         <div className='fw-bold fs-1'>
                             <i className="bi bi-instagram"></i>
                         </div>
